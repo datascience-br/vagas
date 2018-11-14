@@ -46,4 +46,4 @@ Exemplo: `[São Paulo] Computer vision engineer na [NOME DA EMPRESA]`
 - [Eventos](https://github.com/datascience-br/eventos)
 
 ## :shipit: Author
-Esse repositório é um projeto originalmente desenvolvido pela comunidade [FrontEndBR]('https://github.com/frontendbr')
+Esse é um projeto originalmente desenvolvido pela comunidade FrontEndBR: https://github.com/frontendbr
