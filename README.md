@@ -1,9 +1,8 @@
 <p align="center">
-<img src="https://github.com/datascience-br/brand/blob/master/src/png/logo-600px--horizontal--color.png" width="400" alt="Data science Brasil">
+<img src="./logo.png" width="400" alt="Data science Brasil">
 </p>
 <h1 align="center">Vagas</h1>
 <p align="center">:microscope: Espaço para divulgação de vagas para data scientists.</p>
-
 # Vagas (Somente vagas de Data-Science)
 
 Espaço para a divulgação de vagas para desenvolvedores, estatísticos, matemáticos e etc via _issues_ do Github.
