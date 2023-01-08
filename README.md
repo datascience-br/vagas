@@ -28,14 +28,44 @@ Exemplo: `[São Paulo] Computer vision engineer na [NOME DA EMPRESA]`
 
 ### :octocat: Outros repositórios de vagas
 
-- [Vagas para desenvolvedores Front-end](https://github.com/frontend-br/vagas)
-- [Vagas para desenvolvedores Back-end](https://github.com/backend-br/vagas)
+Esse repositório não é específico para um único tipo devagas de **TI**,
+mas mesmo assim existem vagas para muitas outras áreas nesse mercado sendo compartilhadas por outras comunidades, algumas pessoas
+da comunidade forkaram o repositório do FrontEndBR e criaram outras listas específicas
+para diferentes _stacks_ e estados do país. Confira abaixo as outras
+listas onde você poderá postar sua vaga também:
+
+#### Por área
+
+- [Vagas para desenvolvedores Back-End](https://github.com/backend-br/vagas)
+- [Vagas para desenvolvedores Front-End](https://github.com/frontendbr/vagas)
+- [Vagas para desenvolvedores Chat-Bot](https://github.com/chatbotbr/vagas)
+- [Vagas para Data Science](https://github.com/datascience-br/vagas)
+- [Vagas para UI/UX](https://github.com/uxbrasil/vagas)
+- [Vagas para QAs](https://github.com/qa-brasil/vagas)
+
+#### Por tecnologia
+
 - [Vagas para desenvolvedores Android](https://github.com/androiddevbr/vagas)
-- [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
 - [Vagas para desenvolvedores iOS e OSX](https://github.com/CocoaHeadsBrasil/vagas)
-- [Vagas pra desenvolvedores PHP](https://github.com/phpdevbr/vagas)
-- [Vagas pra desenvolvedores React e React Native](https://github.com/react-brasil/vagas)
+- [Vagas para desenvolvedores PHP](https://github.com/phpdevbr/vagas)
+- [Vagas para desenvolvedores Python](https://github.com/pydevbr/vagas)
 - [Vagas para desenvolvedores Vue.js](https://github.com/vuejs-br/vagas)
+- [Vagas para desenvolvedores Go/Golang](https://github.com/Gommunity/vagas)
+- [Vagas para desenvolvedores Flutter](https://github.com/flutter-brazil/vagas)
+- [Vagas para desenvolvedores React/React Native](https://github.com/react-brasil/vagas)
+- [Vagas para desenvolvedores .NET](https://github.com/dotnetdevbr/vagas)
+- [Vagas para desenvolvedores Rust](https://github.com/rustdevbr/vagas)
+- [Vagas para desenvolvedores Elm](https://github.com/FidelisClayton/elm-jobs)
+- [Vagas para desenvolvedores Kotlin](https://github.com/kotlin-br/vagas)
+
+#### Por localidade
+
+- [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
+- [Vagas para desenvolvedores em Feira de Santana/Bahia](https://github.com/devfsa/vagas)
+- [Vagas para desenvolvedores Front-end (Angola)](https://github.com/frontend-ao/vagas)
+- [Vagas para desenvolvedores Back-end (Angola)](https://github.com/backend-ao/vagas)
+- [Vagas para desenvolvedores Front-end (Portugal)](https://github.com/frontend-pt/vagas)
+- [Vagas para desenvolvedores Back-end (Portugal)](https://github.com/backend-pt/vagas)
 
 ## :copyright: Licença
 
